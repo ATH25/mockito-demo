@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MockitoDemoApplication {
 
 	public static void main(String[] args) {
+//		System.out.println("nn ++++: "+ Integer.MIN_VALUE);
 		SpringApplication.run(MockitoDemoApplication.class, args);
+		
 	}
 
 }
+
